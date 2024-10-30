@@ -1,0 +1,42 @@
+Course: Computer Science
+Name: Name:[firstName=Hetan, familyName=Kamalkumar]
+P-Number: P2589546
+Email: hetan@hotmail.com
+Date: 2022-05-12
+=====================
+
+ Module name: Development Project, Module Code: CTEC3451
+Credits: 30, Mandatory on your course? Yes, Schedule: YEAR_LONG
+
+ Module name: Systems Building: Methods, Module Code: IMAT3423
+Credits: 15, Mandatory on your course? Yes, Schedule: TERM_1
+
+ Module name: Multi-service Networks 1, Module Code: CTEC3605
+Credits: 15, Mandatory on your course? No, Schedule: TERM_1
+
+ Module name: Interaction Design, Module Code: CTEC3906
+Credits: 15, Mandatory on your course? No, Schedule: TERM_1
+
+ Module name: Rigorous Systems, Module Code: CTEC3902
+Credits: 15, Mandatory on your course? No, Schedule: TERM_2
+
+ Module name: Front-End Web Development, Module Code: CTEC3905
+Credits: 15, Mandatory on your course? No, Schedule: TERM_2
+
+ Module name: Multi-service Networks 2, Module Code: CTEC3606
+Credits: 15, Mandatory on your course? No, Schedule: TERM_2
+
+
+ Module name: Mobile Application Development, Module Code: CTEC3911
+Credits: 15, Schedule: TERM_1
+
+ Module name: Secure Web Application Development, Module Code: CTEC3110
+Credits: 15, Schedule: TERM_1
+
+ Module name: Web Application Penetration Testing, Module Code: CTEC3410
+Credits: 15, Schedule: TERM_2
+
+ Module name: Information Technology Services Practice, Module Code: IMAT3428
+Credits: 15, Schedule: TERM_2
+
+
